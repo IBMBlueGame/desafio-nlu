@@ -1,4 +1,4 @@
-# Bluegame: Desafio Chatbot
+# Bluegame: Desafio NLU
 Como o tempo passa rápido... Já estamos no terceiro desafio. Leia atentamente as instruções abaixo e boa sorte!
 
 ## Passo a Passo
