@@ -1,6 +1,6 @@
 ---
 applications:
-- name: <sua-id>-conversation
+- name: <sua-id>-nlu
   path: .
   memory: 256M
   instances: 1
